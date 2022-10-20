@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1tvbU6zncj8c2x1ApGSrakwWUBkhHT8rx/edit?usp=sharing&ouid=117464593150392352282&rtpof=true&sd=true
 
 Paper title:
 On the Explanation of AI-Based Student Success Prediction
