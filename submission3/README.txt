@@ -1,12 +1,14 @@
 
 Link to unlisted youtube video:
-https://youtube.com/.....
+https://youtu.be/AvDXFPyShL8
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/shimul53/CSE713/blob/main/submission3/Concept%20Map-Team%2010-Task-3.pdf
+https://drive.google.com/file/d/1fBaRAOOEqXPNMOjA1Yjfja97YNm4xnhQ/view?usp=sharing
+
 Native/original format: 
-https://draw.io/...
+https://app.diagrams.net/#G1-G27R9L63fpBdmVTOaUhtwHQ_Vxllg5G
 
 Name, Author, Edition, year and publisher of the Book:
 Data Science and Machine Learning:Mathematical and Statistical Methods
