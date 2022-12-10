@@ -1,7 +1,7 @@
 
 Paper title: Heart Disease Prediction  Using XAl.
 
-1st draft link: https://github.com/shimul53/CSE713/blob/main/submission4/Project%20Paper%201st%20draft.pdf
+1st draft link: https://github.com/shimul53/CSE713/blob/main/submission4/713_Project_Paper_1st_draft_.pdf
 
 Group Number:
 10
