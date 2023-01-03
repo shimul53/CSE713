@@ -10,7 +10,7 @@ Paper title:
 Heart Disease Prediction  Using XAl.
 
 Paper presentation (anyone can view without login):
-https://github.com/shimul53/CSE713/blob/main/submission4/713%20Project%20Paper%20(Team%2010).pdf
+https://github.com/shimul53/CSE713/blob/main/submission4/713%20Project%20Paper%20(Team-10).pdf
 
 
 Paper submission date (to workshop/conference):
